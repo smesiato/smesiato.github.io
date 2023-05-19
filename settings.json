@@ -1,6 +1,4 @@
 {
-  production: false,
-  "environmentExists": true,
   "domain": "dev-ram0e3cn.us.auth0.com",
   "clientId": "kuXKAonp8Xku7KNly1I10ew87hPUgZNz",
   "audience": "https://entacticsSDXApi",
